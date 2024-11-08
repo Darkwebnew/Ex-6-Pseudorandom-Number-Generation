@@ -18,15 +18,15 @@ To implement Pseudorandom Number Generation using the standard library functions
 
 <br>
 
-1.Seed the random number generator using srand() to initialize it with a starting value.
+Step 1: Seed the random number generator using srand() to initialize it with a starting value.
 
 <br>
 
-2.Generate pseudorandom numbers using rand().
+Step 2: Generate pseudorandom numbers using rand().
 
 <br>
 
-3.To ensure different results on each execution, seed srand() with a dynamic value like the current time (time(NULL)).
+Step 3: To ensure different results on each execution, seed srand() with a dynamic value like the current time (time(NULL)).
 
 <br>
 
