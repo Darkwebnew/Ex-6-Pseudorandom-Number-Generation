@@ -30,7 +30,7 @@ Step 3: To ensure different results on each execution, seed srand() with a dynam
 
 <br>
 
-4.Use modulo operation to limit the range of generated numbers.
+Step 4: Use modulo operation to limit the range of generated numbers.
 
 <br>
 
